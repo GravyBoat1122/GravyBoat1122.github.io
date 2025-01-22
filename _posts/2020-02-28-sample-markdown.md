@@ -1,95 +1,57 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Choosing the Perfect Color Palette for Your Home
+subtitle: Tips for a Stunning and Lasting Finish
+tags: [painting, home improvement, color palettes]
 comments: true
-mathjax: true
 author: Bill Smith
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Choosing the right color palette for your home is more than just a design choice—it's a reflection of your personality and style. The right colors can enhance curb appeal, create ambiance, and even increase property value. Let's explore how to pick the perfect shades and what to avoid!
 
-**Here is some bold text**
+## Understanding Color Psychology
+Colors influence emotions and perception. Here’s how different shades can affect your space:
 
-## Here is a secondary heading
+- **Blues & Greens** – Calming, perfect for bedrooms and bathrooms.
+- **Yellows & Oranges** – Energizing, great for kitchens and dining areas.
+- **Neutrals (Beige, Gray, White)** – Timeless and versatile for any room.
+- **Bold Colors (Red, Black, Deep Purple)** – Dramatic and best used as accents.
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+## Best Practices for Choosing Colors
 
-Here's a table:
+1. **Consider Lighting** – Natural and artificial light can change how a color appears.
+2. **Test Before Committing** – Use sample patches to see how colors look at different times of day.
+3. **Think Long-Term** – Trendy colors might not age well, so choose timeless hues for longevity.
+4. **Balance Bold Choices** – Use vibrant colors sparingly to create focal points without overwhelming the space.
+5. **Coordinate with Your Home’s Features** – Match colors with flooring, furniture, and architectural details.
 
-| Number | Next number | Previous number |
+## Common Mistakes to Avoid
+
+- **Too Many Colors** – Overloading a space with too many hues can feel chaotic.
+- **Ignoring Undertones** – Some whites have warm undertones (yellow, red) while others are cool (blue, green). Make sure they match your decor.
+- **Skipping a Primer** – A good primer ensures smooth application and enhances true color vibrancy.
+- **Choosing the Wrong Finish** – Matte hides imperfections, satin is easy to clean, and gloss adds drama. Pick accordingly!
+
+## Popular Color Combinations
+
+| Theme | Primary Color | Accent Colors |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Modern Minimalist | White | Black, Gray, Navy |
+| Cozy & Warm | Beige | Terracotta, Soft Brown, Mustard |
+| Beachy Vibes | Light Blue | White, Sand, Teal |
+| Bold & Dramatic | Deep Green | Gold, Black, Charcoal |
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
+## Need Professional Advice?
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** Choosing the right paint colors can be overwhelming. If you need expert guidance, feel free to reach out to us for a consultation!
 
-### Warning
+## Before & After Transformations
 
-{: .box-warning}
-**Warning:** This is a warning box.
+![Before and After](https://example.com/before-after.jpg)
 
-### Error
+See how the right color palette can transform your home!
 
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+## Conclusion
+The perfect paint colors can refresh your home and express your unique style. Take your time selecting the right shades, and enjoy a stunning, low-maintenance finish for years to come!
