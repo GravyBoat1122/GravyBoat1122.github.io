@@ -1,9 +1,10 @@
-.color-c { color: #FF6347; }
-.color-o { color: #FF4500; }
-.color-l { color: #FF1493; }
-.color-o2 { color: #FF69B4; }
-.color-u { color: #FF6347; }
-.color-r { color: #8A2BE2; }
+.color-c { color: red; }
+.color-o { color: orange; }
+.color-l { color: yellow; }
+.color-o2 { color: green; }
+.color-u { color: blue; }
+.color-r { color: indigo; }
+
 
 .color-s { color: #32CD32; }
 .color-h { color: #228B22; }
