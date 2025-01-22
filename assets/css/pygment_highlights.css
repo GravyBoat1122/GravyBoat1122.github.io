@@ -61,13 +61,13 @@
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 
-/* Additional Color Classes */
-.color-c { color: red !important; }
-.color-o { color: orange !important; }
-.color-l { color: yellow !important; }
-.color-o2 { color: green !important; }
-.color-u { color: blue !important; }
-.color-r { color: indigo !important; }
+/* Additional Color Classes - Improved for Readability on White */
+.color-c { color: #D32F2F !important; } /* Dark Red */
+.color-o { color: #E65100 !important; } /* Dark Orange */
+.color-l { color: #F9A825 !important; } /* Dark Yellow */
+.color-o2 { color: #388E3C !important; } /* Dark Green */
+.color-u { color: #1976D2 !important; } /* Dark Blue */
+.color-r { color: #5E35B1 !important; } /* Dark Indigo */
 
 .color-s { color: #32CD32 !important; }
 .color-h { color: #228B22 !important; }
