@@ -1,12 +1,12 @@
-body .color-c { color: red; }
-body .color-o { color: orange; }
-body .color-l { color: yellow; }
-body .color-o2 { color: green; }
-body .color-u { color: blue; }
-body .color-r { color: indigo; }
+.color-c { color: red !important; }
+.color-o { color: orange !important; }
+.color-l { color: yellow !important; }
+.color-o2 { color: green !important; }
+.color-u { color: blue !important; }
+.color-r { color: indigo !important; }
 
-body .color-s { color: #32CD32; }
-body .color-h { color: #228B22; }
-body .color-a { color: #006400; }
-body .color-d { color: #2E8B57; }
-body .color-e { color: #98FB98; }
+.color-s { color: #32CD32 !important; }
+.color-h { color: #228B22 !important; }
+.color-a { color: #006400 !important; }
+.color-d { color: #2E8B57 !important; }
+.color-e { color: #98FB98 !important; }
