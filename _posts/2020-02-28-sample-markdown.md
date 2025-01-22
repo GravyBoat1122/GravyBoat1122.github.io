@@ -2,9 +2,9 @@
 layout: post
 title: Choosing the Perfect Color Palette for Your Home
 subtitle: Tips for a Stunning and Lasting Finish
-tags: [painting, home improvement, color palettes]
+#tags: [painting, home improvement, color palettes]
 comments: true
-author: Bill Smith
+#author: Bill Smith
 ---
 
 {: .box-success}
