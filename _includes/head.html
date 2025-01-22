@@ -35,7 +35,7 @@
 
   {% capture author %}
     {%- if page.author -%}
-      {{  page.author | strip_html }}
+      {{  page.author }}
     {%- elsif site.author -%}
       {{ site.author }}
     {%- endif -%}
