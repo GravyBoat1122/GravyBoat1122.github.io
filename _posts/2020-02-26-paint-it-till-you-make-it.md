@@ -2,7 +2,7 @@
 layout: post
 title: Paint it till you make it
 subtitle: An expression is more than just emotion or words.
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/ColourSplash.jpg
 thumbnail-img: /assets/img/PaintColours.jpg
 #share-img: /assets/img/path.jpg
 #tags: [books, test]
